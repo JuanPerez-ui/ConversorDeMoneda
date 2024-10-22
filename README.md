@@ -6,13 +6,13 @@
 utilizando consulta API.
 
 * [Instalación]
-  (#Proceda a descargar una copia del proyecto.
+  (# Proceda a descargar una copia del proyecto.
   El mismo esta programado en JAVA 17, asi que poceda a descargar el SDK17 correspondiente
   o el más reciente.
   Utilice un IDE para poder trabajar el codigo, por ejemple: INTELLIJ, ECLIPSE,etc.)
   
 * [Pantalla principal]
-(#Al iniciar la aplicación aparece la siguiente pantalla principal
+(# Al iniciar la aplicación aparece la siguiente pantalla principal
 
 *************************************
 Sea bienvenido/a al conversor de moneda =)
